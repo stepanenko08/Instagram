@@ -38,8 +38,10 @@ img {
     left: 0;
     width: 285px;
     border-right: 1px solid var(--border-color);
-    position: relative;
     height: 100vh;  
+}
+sectiion {
+    margin-left: 285px;
 }
 .nav__item {
     margin: 10px 0;
