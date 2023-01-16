@@ -350,6 +350,7 @@ section{
     overflow: hidden;
     font-size: 14px;
     background: transparent;
+    outline: none;
 }
 .post__footer__add-comment>p {
     font-size: 14px;
