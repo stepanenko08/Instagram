@@ -483,6 +483,7 @@ section {
 .accounts__footer__language {
     color: rgb(199, 199, 199);
     font-size: 12px;
+    cursor: pointer;
 }
 .accounts__footer__copyright {
     color: rgb(199, 199, 199);
