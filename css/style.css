@@ -480,7 +480,7 @@ section {
 .accounts__footer__link:hover {
     text-decoration: underline;
 }
-.accounts__footer__language {
+.accounts__footer__language>a {
     color: rgb(199, 199, 199);
     font-size: 12px;
     cursor: pointer;
