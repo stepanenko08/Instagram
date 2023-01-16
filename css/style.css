@@ -6,6 +6,7 @@
 
 body{
     display: flex;
+    font-family: 'Roboto';
 }
 :root {
    --blue: rgb(0, 149, 246); 
@@ -17,7 +18,6 @@ body{
 * {
     box-sizing: border-box;
     margin: 0;
-    font-family: 'Roboto';
 }
 a {
     color: inherit;
